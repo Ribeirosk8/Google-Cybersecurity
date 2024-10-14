@@ -1,6 +1,6 @@
 # Google Cybersecurity by Google on Coursera. Certificate earned at February 9, 2024
 
-![Google Cybersecurity Certificate]([https://github.com/Ribeirosk8/Google-Cybersecurity/main/General/Google%20Cybersecurity%20certificate.pdf](https://github.com/Ribeirosk8/Google-Cybersecurity/blob/main/General/Google%20Cybersecurity%20certificate.pdf))
+![Google Cybersecurity Certificate](https://github.com/Ribeirosk8/Google-Cybersecurity/blob/main/General/Google%20Cybersecurity%20certificate.pdf)
 
 **In this course I gained foundational knowledge that will prepare me for entry-level jobs in cybersecurity and help me understand how security teams protect their organizations and its customers**. 
 
